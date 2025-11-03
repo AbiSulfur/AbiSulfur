@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm <span style="color:#00bfff;">AbiSulfur</span> 👋</h1>
+<h1 align="center">Hey there, I'm <span style="color:#00bfff;">Abigail</span> 👋</h1>
 
 <p align="center">
   <em>Always learning, always building.</em>
