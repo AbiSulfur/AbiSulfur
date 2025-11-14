@@ -39,8 +39,11 @@
 
 ### ☕ Support My Journey  
 If you like what I do and want to support my work 👇  
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](#)  
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Saweria-F2921D?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Saweria"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Trakteer-CF3750?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Trakteer"/></a>
+<a href="#"><img src="https://img.shields.io/badge/QRIS-10BEBE?style=for-the-badge&logo=qrcode&logoColor=white" alt="QRIS"/></a>
+</p>
 
 ---
 
