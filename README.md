@@ -33,8 +33,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbiSulfur&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbiSulfur&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbiSulfur&amp;show_icons=true&amp;theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbiSulfur&amp;layout=compact&amp;theme=tokyonight" />
 </p>
 
 ---
