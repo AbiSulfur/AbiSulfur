@@ -31,14 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbiSulfur&amp;show_icons=true&amp;theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbiSulfur&amp;layout=compact&amp;theme=tokyonight" />
-</p>
-
----
-
 ### ☕ Support My Journey  
 If you like what I do and want to support my work 👇  
 <p align="left">
