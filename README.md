@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<br><br><br>
+<br><br>
 
  *"Clean code always looks like it* 
  *was written by someone who cares."*
