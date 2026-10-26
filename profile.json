@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "login": "AbiSulfur",
+  "seed": "#FCBE73",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "buttons",
+    "wave"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "AbiSulfur",
+    "subtitle": "Turning ideas into functional software, interactive web, and playful experiments",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "terminal",
+        "label": "Full-Stack Web"
+      },
+      {
+        "icon": "brand:laravel",
+        "label": "Laravel & Tailwind"
+      },
+      {
+        "icon": "flutter",
+        "label": "Flutter"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Full-Stack Web & Mobile Developer"
+      },
+      {
+        "icon": "code",
+        "label": "Turning ideas into scalable web & mobile apps"
+      },
+      {
+        "icon": "brand:open3d",
+        "label": "Exploring interactive 3D web & WebGL"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:php",
+            "label": "PHP"
+          },
+          {
+            "icon": "brand:laravel",
+            "label": "Laravel"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "Javascript"
+          },
+          {
+            "icon": "brand:tailwindcss",
+            "label": "Tailwind CSS"
+          },
+          {
+            "icon": "brand:flutter",
+            "label": "Flutter"
+          },
+          {
+            "icon": "brand:nextdotjs",
+            "label": "Next.js"
+          },
+          {
+            "icon": "brand:astra",
+            "label": "Astro.js"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:github",
+            "label": "Github"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:supabase",
+            "label": "Supabase"
+          },
+          {
+            "icon": "brand:mysql",
+            "label": "MySQL"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "Stockwise",
+      "Portofolio",
+      "SIAP-Pajak",
+      "Taut-In",
+      "NutriCycle",
+      "Web-Design-Competition"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:instagram",
+        "url": "https://www.instagram.com/bened_tri/"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/luxmundi73_69956"
+      },
+      {
+        "icon": "brand:gmail",
+        "url": "https://mail.google.com/mail/?view=cm&fs=1&to=mautidur34@gmail.com"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://abigaildev.my.id/",
+        "style": "filled"
+      }
+    ],
+    "card": true
+  }
+}
