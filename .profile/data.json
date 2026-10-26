@@ -1,0 +1,373 @@
+{
+ "key": "da376728",
+ "stars": 1,
+ "contributions": 149,
+ "repos": 23,
+ "followers": 3,
+ "languages": [
+  [
+   "PHP",
+   1823432
+  ],
+  [
+   "HTML",
+   1279342
+  ],
+  [
+   "Blade",
+   699382
+  ],
+  [
+   "CSS",
+   297549
+  ],
+  [
+   "JavaScript",
+   253723
+  ],
+  [
+   "TypeScript",
+   188345
+  ],
+  [
+   "Dart",
+   180230
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 26,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 4
+ },
+ "pins": [
+  {
+   "name": "Aplikasi-UMKM",
+   "url": "https://github.com/AbiSulfur/Aplikasi-UMKM",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Blade",
+   "topics": []
+  },
+  {
+   "name": "Game-Project",
+   "url": "https://github.com/AbiSulfur/Game-Project",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "Stockwise",
+   "url": "https://github.com/AbiSulfur/Stockwise",
+   "text": "fully responsive landing page designed for 'Stockwise', a smart inventory management solution. It features a clean, professional SaaS aesthetic with a hero section showcasing a dashboard mockup, a statistical impact grid, an interactive 3-step guide, and optimized CTA sections. Built using Tailwind CSS for rapid, and consistent styling.",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "ujian-android",
+   "url": "https://github.com/AbiSulfur/ujian-android",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Dart",
+   "topics": []
+  },
+  {
+   "name": "ujian",
+   "url": "https://github.com/AbiSulfur/ujian",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "PHP",
+   "topics": []
+  },
+  {
+   "name": "NutriCycle",
+   "url": "https://github.com/AbiSulfur/NutriCycle",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Taut-In",
+   "url": "https://github.com/AbiSulfur/Taut-In",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Dart",
+   "topics": []
+  },
+  {
+   "name": "Flutter-School-Project",
+   "url": "https://github.com/AbiSulfur/Flutter-School-Project",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Dart",
+   "topics": []
+  },
+  {
+   "name": "SIAP-Pajak",
+   "url": "https://github.com/AbiSulfur/SIAP-Pajak",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Blade",
+   "topics": []
+  },
+  {
+   "name": "Sulfur-Wallet",
+   "url": "https://github.com/AbiSulfur/Sulfur-Wallet",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Dart",
+   "topics": []
+  },
+  {
+   "name": "Web-Design-Competition",
+   "url": "https://github.com/AbiSulfur/Web-Design-Competition",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "TSA-Company-Profile",
+   "url": "https://github.com/AbiSulfur/TSA-Company-Profile",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Diklat-Amikom",
+   "url": "https://github.com/AbiSulfur/Diklat-Amikom",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Blade",
+   "topics": []
+  },
+  {
+   "name": "Laravel-Project",
+   "url": "https://github.com/AbiSulfur/Laravel-Project",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Blade",
+   "topics": []
+  },
+  {
+   "name": "Leafly",
+   "url": "https://github.com/AbiSulfur/Leafly",
+   "text": "Leafly Tea is an e-commerce website developed to showcase and sell products from the Leafly Tea brand.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Aplikasi-Kegiatan-Guru",
+   "url": "https://github.com/AbiSulfur/Aplikasi-Kegiatan-Guru",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "PHP",
+   "topics": []
+  },
+  {
+   "name": "Focusly",
+   "url": "https://github.com/AbiSulfur/Focusly",
+   "text": "Focusly – Landing page sederhana untuk meningkatkan produktivitas dengan menggabungkan Pomodoro Timer dan Habit Tracker.",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "Portofolio",
+   "url": "https://github.com/AbiSulfur/Portofolio",
+   "text": "Personal web portfolio built with Astro and Tailwind CSS to showcase skills, projects, and contact information with a clean, modern, and responsive design.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": [
+    "javascript",
+    "portfolio",
+    "portfolio-project",
+    "reactjs",
+    "vercel",
+    "tailwind-css",
+    "typescript",
+    "astrojs",
+    "framer-motion"
+   ]
+  },
+  {
+   "name": "AbiSulfur",
+   "url": "https://github.com/AbiSulfur/AbiSulfur",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Aplikasi-UMKM",
+   "url": "https://github.com/AbiSulfur/Aplikasi-UMKM",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Blade",
+   "topics": []
+  },
+  {
+   "name": "skill-icons",
+   "url": "https://github.com/AbiSulfur/skill-icons",
+   "text": "Showcase your skills on your Github readme or resumé with ease ✨",
+   "fork": true,
+   "stars": 0,
+   "language": "SVG",
+   "topics": []
+  },
+  {
+   "name": "Game-Project",
+   "url": "https://github.com/AbiSulfur/Game-Project",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Aplikasi-Guru",
+   "url": "https://github.com/AbiSulfur/Aplikasi-Guru",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Blade",
+   "topics": []
+  },
+  {
+   "name": "PBO",
+   "url": "https://github.com/AbiSulfur/PBO",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "lost-in-forest",
+   "url": "https://github.com/AbiSulfur/lost-in-forest",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
