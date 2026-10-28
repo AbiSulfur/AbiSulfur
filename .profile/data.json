@@ -1,29 +1,29 @@
 {
- "key": "51c967fa",
+ "key": "a4db3a0d",
  "stars": 2,
- "contributions": 149,
- "repos": 23,
+ "contributions": 157,
+ "repos": 24,
  "followers": 3,
  "languages": [
   [
    "PHP",
-   1823432
+   1892992
   ],
   [
    "HTML",
-   1279342
+   1373409
   ],
   [
    "Blade",
-   699382
+   828180
   ],
   [
    "CSS",
-   297549
+   311177
   ],
   [
    "JavaScript",
-   253723
+   254206
   ],
   [
    "TypeScript",
@@ -123,9 +123,13 @@
    {
     "c": 0,
     "day": 27,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 28,
     "today": true
    },
-   null,
    null,
    null,
    null
@@ -144,6 +148,15 @@
    "fork": false,
    "stars": 2,
    "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Katrol.lab",
+   "url": "https://github.com/AbiSulfur/Katrol.lab",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Blade",
    "topics": []
   },
   {
