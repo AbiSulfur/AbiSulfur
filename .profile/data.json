@@ -1,5 +1,5 @@
 {
- "key": "fddb3910",
+ "key": "a3ccaed1",
  "stars": 2,
  "contributions": 159,
  "repos": 24,
@@ -118,9 +118,13 @@
    {
     "c": 0,
     "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
     "today": true
    },
-   null,
    null,
    null,
    null,
