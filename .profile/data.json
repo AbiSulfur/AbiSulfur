@@ -1,5 +1,5 @@
 {
- "key": "edcfb586",
+ "key": "93c12b47",
  "stars": 2,
  "contributions": 148,
  "repos": 24,
@@ -133,9 +133,13 @@
    {
     "c": 0,
     "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
     "today": true
    },
-   null,
    null
   ]
  ],
